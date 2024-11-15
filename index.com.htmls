@@ -1,0 +1,95 @@
+Here's an example of how you can write about yourself in HTML:
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta Palvine ="viewport" content="width=device-width, initial-scale=1.0">
+    <title>how I obtained my odinary level </title>
+    <style>
+        body {I obtained my ordinary level in  pcss doula i  was doing Arts and i did Computer science,maths,economics,history,geography, English, French,religious studies,citizenship,literature,biology 
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        
+        .container {
+            max-width: 900px
+            margin: 40px auto;
+            padding: 30px
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        .header {
+            background-white : #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        
+        .profile-picture {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 50%;
+            margin: 20px auto;
+        }
+        
+        .about-me {
+            padding: 20px;
+        }
+        
+        .contact-info {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>About Me</h1>
+        </div>
+        <img src="profile-picture.jpg" alt="Profile Picture" class="profile-picture">
+        <div class="about-me">
+            <h2>Introduction</h2>
+            <p>Hello Palvine [Yovla Palvine ], and I'm  a student of HUIB university buea I'm passionate about [about studying computer science and networking ].</p>
+            <h2>i was a student of Pcss doula where I obtained my ordinary certificate and I registered 10subjects and i had 8 papers that is  computer science ,Maths,English, French,economics,geography,literature,citizenship,religious studies and i has 18 points and i had to change my school to buea were i had my advance level </h2>
+            <p>I was born on 21-Nov 2006 in Bamendaat and I school at Huib University Buea</p>
+            <h2>Skills</h2>
+            <ul>
+                <li>[Skill 1]</li>
+                <li>[Skill 2]</li>
+                <li>[Skill 3]</li>
+            </ul>
+        </div>
+        <div class="contact-info">
+            <h2>Get in Touch</h2>
+            <p>Email: Yovlapalvinekernyuy@gmail.com</p>
+            <p>Phone: 654710466</p>
+            <p>LinkedIn: [</p>
+        </div>
+    </div>
+</body>
+</html>
+```
+
+Replace the placeholder text with your own information:
+
+- `Yovla Palvine Kernyuy 
+- `Student studying computer science and networking 
+- `Reading books,Eating 
+- `21-Nov-2006
+- `Bamenda
+- `Bamenda
+- `Level 200
+- `Huib University buea
+- `[Skill 1], [Skill 2], [Skill 3]`: Your skills
+- `[Your Email]`: Your email address
+- `[Your Phone Number]`: Your phone number
+- `[Your LinkedIn Profile]`: Your LinkedIn profile URL
+- `profile-picture.jpg`: Replace with your own profile picture
+
+Save this HTML code in a file (e.g., `about-me.html`) and open it in a web browser to view your About Me page.
